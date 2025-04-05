@@ -1,0 +1,13 @@
+{
+  "login": "Iniciar sesión",
+  "sendCode": "Enviar código",
+  "verifyCode": "Verificar código",
+  "employeeId": "ID de Empleado",
+  "verificationCode": "Código de Verificación",
+  "timelog": "Registro de Tiempo",
+  "materials": "Materiales",
+  "clockIn": "Fichar Entrada",
+  "clockOut": "Fichar Salida",
+  "todaysTimeWorked": "Tiempo Trabajado Hoy",
+  "logout": "Cerrar Sesión"
+}

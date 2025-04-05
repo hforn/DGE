@@ -1,0 +1,13 @@
+{
+  "login": "Login",
+  "sendCode": "Send Code",
+  "verifyCode": "Verify Code",
+  "employeeId": "Employee ID",
+  "verificationCode": "Verification Code",
+  "timelog": "Timelog",
+  "materials": "Materials",
+  "clockIn": "Clock In",
+  "clockOut": "Clock Out",
+  "todaysTimeWorked": "Today's Time Worked",
+  "logout": "Log Out"
+}
